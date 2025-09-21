@@ -1,8 +1,8 @@
-# Code of Respect (Apolitical CoC) V4
+# Code of Respect
 
 ## This document contain important information about the rule of the project
 
-## Main goal 
+## Goal 
 
 Making software, not doing political debate or activism, everyone is welcome.
 as long as you want to push the project forward and respect the goal amd rule
