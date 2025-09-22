@@ -23,7 +23,7 @@ This project is all about software and [FLOSS](https://www.gnu.org/philosophy/fr
 
 Contributions should focus on code, quality, and collaboration.
 
-## Explicitly forbidden Behavior
+## Unacceptable Behaviour
 
 Harassment, bullying, intimidation, discrimination (including ableism, homophobia (and heterophobia), sexism (of both male or female) etc.), or violent speech will not be tolerated.
 
@@ -36,3 +36,5 @@ Due to be a hobby project by a student, I have no enforcement team (nor do I wan
 ## Make Software Development Great Again.
 
 This code of respect is inspired by the [No Code of Conduct](https://nocodeofconduct.com/)
+
+## Last Changes : 21 sept 
