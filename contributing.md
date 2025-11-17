@@ -9,9 +9,9 @@ Clone Your Fork: Download your forked repository to your local machine.
 
 ```bash
     git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-
-    Create a New Branch: Create a dedicated branch for your changes. 
 ```
+
+Create a New Branch: Create a dedicated branch for your changes.
 
 ```bash
     git checkout -b feature/your-feature-name
@@ -21,10 +21,11 @@ or
 
 ```bash
     git checkout -b bugfix/issue-number
-
-    Make Your Changes: Implement your features or fix bugs.
-    Commit Your Changes: Write clear and concise commit messages. 
 ```
+
+Make Your Changes: Implement your features or fix bugs.
+Commit Your Changes: Write clear and concise commit messages.
+
 
 ```bash
     git commit -m "feat: Add new feature"
@@ -34,9 +35,9 @@ or
 
 ```bash
     git commit -m "fix: Resolve issue #123"
-
-    Push to Your Fork: Upload your local branch to your forked repository on GitHub. 
 ```
+
+Push to Your Fork: Upload your local branch to your forked repository on GitHub.
 
 ```bash
     git push origin feature/your-feature-name
