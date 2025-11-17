@@ -38,4 +38,4 @@ You can create a issue on the project's issue tracker.
 
 The Code of Respect is inspired by the [No Code of Conduct](https://nocodeofconduct.com)
 
-## Last Changes: 02 November 2025
+## Last Changes: 16 November 2025
