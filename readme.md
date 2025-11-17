@@ -1,10 +1,10 @@
 # Code Of Respect
 
-## An apolitical code of conduct
+## An technical and inclusive code of conduct for small to medium FOSS project
 
 ## Introduction
 
-**code-of-respect** is apolitical code of conduct designed to foster respectful, inclusive, and professional interactions in any community or collaborative project. Its straightforward guidelines help maintain a positive and productive environment for all participants, regardless of background or beliefs.
+The **Code of respect** is apolitical code of conduct designed to foster respectful, inclusive, and professional interactions in any community or collaborative project. Its straightforward guidelines help maintain a positive and productive environment for all participants, regardless of background or beliefs.
 
 ## Features
 
@@ -20,4 +20,4 @@
 - **For contributors:**  
   Review and adhere to the guidelines outlined in the code of conduct when participating in discussions, submitting issues, or contributing code.
 
-> **Let’s build respectful communities together.**
+**Let's makes software togethers !**
