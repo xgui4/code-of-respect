@@ -2,20 +2,24 @@
 
 ## This document contains important information about the rules of the project
 
-## Goal
+## Goals and Rules
 
-Making software, not doing political debates or activism. Everyone is welcome
-as long as you want to push the project forward and respect the goal and rules
-of the project
+- Making Software
+- Technical Merit (not doing political debates or activism)
+- Making Everyone welcome
+- Push the project forward
+- Respect the goal and rules
+- Accept natural diversity (including neurodiversity and disability)
+- Treat others with respect and professionalism
+- NSFW content is not allowed (except if authorized).
 
 ## Inclusivity and Professionalism
 
-### You are welcome
+## You are welcome here
 
 This mean you are to welcome to contribute and be a part of the community regardless
 of your identity, sex/gender, ethnicity, religion, disability, neurodivergence, background,
-or personal beliefs or political view. Embrace natural diversity, including neurodiversity
-and disability. Treat others with respect and professionalism and NSFW content is not allowed (except if authorized).
+or personal beliefs or political view.
 
 ## Focus
 
@@ -25,7 +29,7 @@ Contributions should focus on code, quality, and collaboration.
 
 ## Unacceptable Behaviour
 
-Harassment, bullying, intimidation, discrimination (including ableism, homophobia (and heterophobia), sexism (of both male or female) etc.), or violent speech will not be tolerated.
+Harassment, bullying, intimidation, discrimination including ableism, homophobia (and heterophobia), sexism (of both male or female) and others, or violent speech will not be tolerated.
 
 Disruptive or disrespectful behavior may result in removal from the project.
 
@@ -34,7 +38,7 @@ Disruptive or disrespectful behavior may result in removal from the project.
 We have no enforcement team (nor do we want one).
 You can create a issue on the project's issue tracker.
 
-## Make Software Development Great Again
+**Let's makes Software Togethers !**
 
 The Code of Respect is inspired by the [No Code of Conduct](https://nocodeofconduct.com)
 
