@@ -2,7 +2,7 @@
 
 ## This document contains important information about the rules of the project
 
-## Goal 
+## Goal
 
 Making software, not doing political debates or activism. Everyone is welcome
 as long as you want to push the project forward and respect the goal and rules
@@ -10,7 +10,7 @@ of the project
 
 ## Inclusivity and Professionalism
 
-### You are welcome 
+### You are welcome
 
 This mean you are to welcome to contribute and be a part of the community regardless 
 of your identity, sex/gender, ethnicity, religion, disability, neurodivergence, background,
@@ -34,7 +34,7 @@ Disruptive or disrespectful behavior may result in removal from the project.
 We have no enforcement team (nor do we want one).
 You can create a issue on the project's issue tracker.
 
-## Make Software Development Great Again.
+## Make Software Development Great Again
 
 The Code of Respect is inspired by the [No Code of Conduct](https://nocodeofconduct.com)
 

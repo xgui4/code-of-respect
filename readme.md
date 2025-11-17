@@ -1,6 +1,6 @@
-# code-of-respect
+# Code Of Respect
 
-**An apolitical code of conduct**
+## An apolitical code of conduct
 
 ## Introduction
 
@@ -19,6 +19,5 @@
   Add the code of conduct file to your repository, and reference it in your README or other documentation.
 - **For contributors:**  
   Review and adhere to the guidelines outlined in the code of conduct when participating in discussions, submitting issues, or contributing code.
-
 
 > **Let’s build respectful communities together.**
