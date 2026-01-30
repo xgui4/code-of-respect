@@ -26,7 +26,6 @@ or
 Make Your Changes: Implement your features or fix bugs.
 Commit Your Changes: Write clear and concise commit messages.
 
-
 ```bash
     git commit -m "feat: Add new feature"
 ```
