@@ -25,11 +25,11 @@ Les contributions doivent privilégier le code, la qualité et la collaboration 
 
 ### Vous êtes bienvenue ici
 
-Cela signifie que vous êtes accepté encouragée à contribuer et à faire partie de la communauté, peu importe votre identité, votre sexe/genre, votre origine ethnique, votre religion, votre handicap, votre neurodiversité, votre milieu, vos convictions personnelles ou vos opinions politiques.
+Cela signifie que vous êtes accepté et encouragée à contribuer et à faire partie de la communauté, peu importe votre identité, votre sexe/genre, votre origine ethnique, votre religion, votre handicap, votre neurodiversité, votre milieu, vos convictions personnelles ou vos opinions politiques.
 
 ## Comportements inacceptables
 
-Le harcèlement, l'intimidation, la discrimination (y compris le capacitisme, l'homophobie et l'hétérophobie, le sexisme, quel qu'il soit) et les propos violents ne sont pas tolérés et punissable.
+Le harcèlement, l'intimidation, la discrimination (y compris le capacitisme, l'homophobie et l'hétérophobie, le sexisme et quel qu'il soit) et les propos violents ne sont pas tolérés et sont punissable.
 
 Tout comportement perturbateur ou irrespectueux peuvent entraîner l'exclusion du projet et sa communauté.
 

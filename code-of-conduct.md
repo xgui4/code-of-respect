@@ -45,6 +45,6 @@ You can create a issue on the project's issue tracker.
 
 The Code of Respect is inspired by the [No Code of Conduct](https://nocodeofconduct.com)
 
-## Last Changes: 3 Mai 2026
+## Last Changes: 3 May 2026
 
 ### [Latest Version](https://github.com/xgui4/code-of-respect)
